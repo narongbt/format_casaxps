@@ -6,6 +6,9 @@ from tkinter import messagebox, filedialog, constants, IntVar, StringVar
 
 class SortColumn(tk.Frame):
 
+	def test():
+	#test 
+	
 	def __init__(self, root):
 		tk.Frame.__init__(self, root)
 		self.root = root
